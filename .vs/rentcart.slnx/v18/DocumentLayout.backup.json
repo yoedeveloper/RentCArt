@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|c:\\users\\yoenm\\downloads\\proyecto\\rentcart\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|solutionrelative:models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|c:\\users\\yoenm\\downloads\\proyecto\\rentcart\\service\\vehiculosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|solutionrelative:service\\vehiculosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|c:\\users\\yoenm\\downloads\\proyecto\\rentcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FE43A-3C38-8C49-5F6E-9DCFBF4194B0}|rentcart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:56:18.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vehiculosService.cs",
+              "DocumentMoniker": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\service\\vehiculosService.cs",
+              "RelativeDocumentMoniker": "service\\vehiculosService.cs",
+              "ToolTip": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\service\\vehiculosService.cs",
+              "RelativeToolTip": "service\\vehiculosService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:27:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\models\\vehiculos.cs",
+              "RelativeDocumentMoniker": "models\\vehiculos.cs",
+              "ToolTip": "C:\\Users\\yoenm\\Downloads\\PROYECTO\\rentcart\\models\\vehiculos.cs",
+              "RelativeToolTip": "models\\vehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:15:34.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
